@@ -1,0 +1,14 @@
+.box{
+margin: auto;
+background-color: white;
+height: 600px;
+width: 90%;
+
+}
+body{
+  background-color: lightblue;
+  font-style: italic;
+}
+footer{
+  margin-bottom: 1000px;
+}
